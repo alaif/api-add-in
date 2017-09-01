@@ -19,7 +19,8 @@ Videos introducing this functionality.
 # Installation
 
 - Build the solution in the APIAddIn folder using visual studio
-- Using Regedit add the registry key to list Sparx EA to the class.
+- Using Regedit add the registry key to list Sparx EA to the class. 
+    - For detailed description follow [Reg Addins post](http://www.sparxsystems.com/enterprise_architect_user_guide/9.3/automation/deployingaddins.html).
 ![Synchronizing Json files into EA](./images/registry.png)
 - Start EA.
 - You should see the extension menus in Extensions-API MDG.
